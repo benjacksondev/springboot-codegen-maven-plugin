@@ -1,0 +1,11 @@
+com/benjacksondev/springbootcodegen/contentgenerators/EntityGenerator.class
+com/benjacksondev/springbootcodegen/AbstractContentGenerator.class
+com/benjacksondev/springbootcodegen/FilesGenerator.class
+com/benjacksondev/springbootcodegen/EntrypointMojo.class
+com/benjacksondev/springbootcodegen/contentgenerators/ServiceGenerator.class
+com/benjacksondev/springbootcodegen/GeneratorRunner.class
+com/benjacksondev/springbootcodegen/contentgenerators/RepositoryGenerator.class
+com/benjacksondev/springbootcodegen/ContentGenerator.class
+com/benjacksondev/springbootcodegen/StringExtensions.class
+com/benjacksondev/springbootcodegen/ContentGeneratorResult.class
+com/benjacksondev/springbootcodegen/contentgenerators/ControllerGenerator.class

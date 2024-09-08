@@ -1,0 +1,11 @@
+/Users/ben.jackson/Desktop/springboot-codegen-maven-plugin/src/main/java/com/benjacksondev/springbootcodegen/AbstractContentGenerator.java
+/Users/ben.jackson/Desktop/springboot-codegen-maven-plugin/src/main/java/com/benjacksondev/springbootcodegen/ContentGenerator.java
+/Users/ben.jackson/Desktop/springboot-codegen-maven-plugin/src/main/java/com/benjacksondev/springbootcodegen/ContentGeneratorResult.java
+/Users/ben.jackson/Desktop/springboot-codegen-maven-plugin/src/main/java/com/benjacksondev/springbootcodegen/EntrypointMojo.java
+/Users/ben.jackson/Desktop/springboot-codegen-maven-plugin/src/main/java/com/benjacksondev/springbootcodegen/FilesGenerator.java
+/Users/ben.jackson/Desktop/springboot-codegen-maven-plugin/src/main/java/com/benjacksondev/springbootcodegen/GeneratorRunner.java
+/Users/ben.jackson/Desktop/springboot-codegen-maven-plugin/src/main/java/com/benjacksondev/springbootcodegen/StringExtensions.java
+/Users/ben.jackson/Desktop/springboot-codegen-maven-plugin/src/main/java/com/benjacksondev/springbootcodegen/contentgenerators/ControllerGenerator.java
+/Users/ben.jackson/Desktop/springboot-codegen-maven-plugin/src/main/java/com/benjacksondev/springbootcodegen/contentgenerators/EntityGenerator.java
+/Users/ben.jackson/Desktop/springboot-codegen-maven-plugin/src/main/java/com/benjacksondev/springbootcodegen/contentgenerators/RepositoryGenerator.java
+/Users/ben.jackson/Desktop/springboot-codegen-maven-plugin/src/main/java/com/benjacksondev/springbootcodegen/contentgenerators/ServiceGenerator.java
